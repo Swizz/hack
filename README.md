@@ -1,3 +1,7 @@
+#This fork lives only to start with a strong base to try all capabilities of PostCSS across many plugins to refactor and beautify the hack's code.
+
+---
+
 # hack
 
 [![npm version](https://img.shields.io/npm/v/hack.svg?style=flat-square)](https://npmjs.com/package/hack) [![npm downloads](https://img.shields.io/npm/dm/hack.svg?style=flat-square)](https://npmjs.com/package/hack) [![Gitter](https://img.shields.io/gitter/room/egoist/hack.svg?style=flat-square)](https://gitter.im/egoist/hack)
